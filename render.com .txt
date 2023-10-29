@@ -1,0 +1,3 @@
+render.com 
+vercel.com
+netlify.com
